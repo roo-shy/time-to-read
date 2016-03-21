@@ -1,4 +1,4 @@
-# time-to-read
+# Javascript. Time-to-Read
  HTML
  Javascript Fundamentals 
  DOM Manipulation
